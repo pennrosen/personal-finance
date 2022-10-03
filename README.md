@@ -3,7 +3,7 @@ Personal finance resources aimed at the complete beginner:
 
 [Personal Finance Flowchart](https://i.imgur.com/lSoUQr2.png)
 
-[Bogleheads.org](https://www.bogleheads.org/wiki/Getting_started)
+[Bogleheads.org wiki](https://www.bogleheads.org/wiki/Getting_started)
 
 [Cheesy but effective introductory videos by an informed and well-meaning dad.](https://www.bogleheads.org/wiki/Video:Bogleheads%C2%AE_investment_philosophy)
 
