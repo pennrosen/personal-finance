@@ -1,5 +1,5 @@
 # personal-finance
-###Personal finance resources aimed at the complete beginner.
+### Personal finance resources aimed at the complete beginner.
 
 [Personal Finance Flowchart](https://i.imgur.com/lSoUQr2.png)
 
